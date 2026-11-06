@@ -4,15 +4,17 @@
 
 *Artificial Intelligence-Based Platform for Business Process Orchestration in Small Businesses*
 
-Trabalho de Iniciação Científica preparado para a modalidade **PSE — artigo completo**
-do 21º CONTECSI, na Fatec Itapetininga. Este repositório organiza a entrega da
-[Tarefa 09](https://github.com/deivisontakatu/aula-iniciacao-cientifica/blob/main/Tarefa/Tarefa%2009.md).
+Pesquisa de Iniciação Científica desenvolvida na Fatec Itapetininga e organizada
+para a [Tarefa 09 — CONTECSI](https://github.com/deivisontakatu/aula-iniciacao-cientifica/blob/main/Tarefa/Tarefa%2009.md).
 
-## Manuscrito
+## Documentos
 
-- [Artigo completo em Word](publicacao/tarefa09-contecsi/manuscrito/artigo-completo.docx)
-- [PDF para leitura](publicacao/tarefa09-contecsi/manuscrito/previa-leitura.pdf)
-- [Entrega da atividade: modalidade, modelo e exemplos](publicacao/tarefa09-contecsi/README.md)
+| Modalidade | Manuscrito | Leitura |
+| --- | --- | --- |
+| **PSE — artigo completo** · principal | [Word](publicacao/tarefa09-contecsi/manuscrito/artigo-completo.docx) | [PDF](publicacao/tarefa09-contecsi/manuscrito/previa-leitura.pdf) |
+| **REX — resumo expandido** · alternativa | [Word](publicacao/tarefa09-contecsi/manuscrito/resumo-expandido.docx) | [PDF](publicacao/tarefa09-contecsi/manuscrito/resumo-expandido.pdf) |
+
+[Entrega da atividade, modelos e exemplos consultados](publicacao/tarefa09-contecsi/README.md).
 
 ## Contribuição
 
@@ -26,23 +28,18 @@ completo do negócio são propostas de evolução, distintas do núcleo avaliado
 O estudo adota Design Science Research, organizado pela DSRM e orientado por GQM.
 A avaliação técnica reúne testes de regras e concorrência, piloto remoto, interface,
 108 tentativas de interpretação em cenários sintéticos e medições de carregamento
-web e abertura Android. Os resultados e seus limites estão apresentados no artigo.
+web e abertura Android. Os resultados e seus limites estão apresentados nos textos.
 
 ## Situação
 
-**Em revisão — atualização de 6 de novembro de 2026.** O manuscrito tem 22 páginas;
-a versão compartilhada é anônima e utiliza datas reais nas referências.
-Não houve submissão ao congresso, aceite ou publicação nos anais; por isso,
-não há data ou código de confirmação de submissão.
+**Em revisão — atualização de 6 de novembro de 2026.** O PSE tem 22 páginas e o
+REX, sete. O PSE é o formato principal da atividade; o REX foi preparado como
+alternativa. A presença dos dois arquivos não representa duas submissões.
 
-Antes do envio ao evento, faltam conferir a paginação no Microsoft Word, esclarecer
-a aplicação da marcação de conteúdo assistido por IA e confirmar o enquadramento da
-divulgação prévia do manuscrito na política de ineditismo. Os três autores e sua
-ordem já foram confirmados; dados cadastrais são preenchidos separadamente no sistema.
-
-Este repositório é privado para revisão acadêmica. Acesso ao professor deve ser
-concedido antes da entrega do link. A privacidade atual não altera o fato de que
-uma versão anterior esteve disponível em outro repositório público.
+Não houve submissão ao congresso, aceite ou publicação nos anais. A conclusão do
+envio dependerá da conferência da paginação no Word, da adequação à política de IA,
+dos requisitos da chamada e do tratamento da divulgação prévia na política de ineditismo.
+O registro de confirmação será acrescentado quando o envio for concluído.
 
 ## Organização
 
@@ -51,13 +48,16 @@ publicacao/tarefa09-contecsi/
 ├── README.md
 ├── manuscrito/
 │   ├── artigo-completo.docx
-│   └── previa-leitura.pdf
+│   ├── previa-leitura.pdf
+│   ├── resumo-expandido.docx
+│   └── resumo-expandido.pdf
 ├── modelo/
-│   └── PSE_COM_PORT.docx
+│   ├── PSE_COM_PORT.docx
+│   └── REX_CONTECSI.docx
 └── referencias/
     └── fontes-e-trabalhos-relacionados.md
 ```
 
-O repositório contém apenas os materiais acadêmicos da atividade. Dados pessoais
-de inscrição, versões com datas simuladas, configurações de serviços e evidências
-experimentais privadas ficam fora desta entrega.
+Os documentos seguem a identificação própria de cada modalidade: PSE anônimo e
+REX com autores. Dados pessoais de inscrição, configurações de serviços e registros
+experimentais privados ficam fora deste repositório.
