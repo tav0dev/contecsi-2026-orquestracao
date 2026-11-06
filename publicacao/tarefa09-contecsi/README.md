@@ -55,7 +55,7 @@ as referências para a formatação de cada modalidade.
 | Paginação no Word | Abrir os DOCX no Microsoft Word e conferir a disposição final. |
 | Identificação de apoio de IA | Esclarecer a aplicação da regra de marcação de trechos assistidos; a declaração da ferramenta e finalidade está nos textos. |
 | Divulgação prévia e ineditismo | Confirmar o tratamento dado ao manuscrito disponibilizado no GitHub; as diretrizes não detalham uma política de preprints. |
-| Cadastro do REX | Completar a titulação do orientador e os campos pessoais restantes na versão definitiva, de forma privada. Os três e-mails já estão informados. |
+| Cadastro do REX | Completar os campos pessoais restantes na versão definitiva, de forma privada. Os três e-mails e a titulação do orientador já estão informados. |
 | Envio ao evento | Confirmar chamada aberta e elegibilidade; preencher metadados; concluir o envio da modalidade escolhida e registrar a confirmação. |
 
 A coautoria e a ordem dos três autores estão confirmadas. As biografias foram
