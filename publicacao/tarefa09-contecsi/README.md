@@ -19,6 +19,8 @@
 
 [Referências e trabalhos anteriores consultados](referencias/fontes-e-trabalhos-relacionados.md).
 
+[Biografias de Gustavo, Lauren e Deivison para revisão](biografias.md).
+
 ## Escolha da modalidade e contribuição
 
 O PSE foi escolhido por permitir apresentar o problema, a fundamentação, o método,

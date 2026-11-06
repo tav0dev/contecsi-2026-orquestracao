@@ -16,6 +16,8 @@ para a [Tarefa 09 — CONTECSI](https://github.com/deivisontakatu/aula-iniciacao
 
 [Entrega da atividade, modelos e exemplos consultados](publicacao/tarefa09-contecsi/README.md).
 
+[Biografias dos três autores para revisão](publicacao/tarefa09-contecsi/biografias.md).
+
 ## Contribuição
 
 A pesquisa aborda a fragmentação de informações e atividades em pequenos negócios
@@ -46,6 +48,7 @@ O registro de confirmação será acrescentado quando o envio for concluído.
 ```text
 publicacao/tarefa09-contecsi/
 ├── README.md
+├── biografias.md
 ├── manuscrito/
 │   ├── artigo-completo.docx
 │   ├── previa-leitura.pdf
