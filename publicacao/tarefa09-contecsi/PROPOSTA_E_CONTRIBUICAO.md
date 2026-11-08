@@ -14,7 +14,7 @@ O responsável precisa conectar informações e acompanhar a continuidade dos pr
 | Central: resultados financeiros | Apoiar a continuidade da oportunidade até contratação, realização, recebimento e recorrência | Oportunidades, conversão, custos e recebimentos |
 | Complementar: tranquilidade | Dar visibilidade e controle sobre compromissos, pendências e decisões | Compreensão das propostas e percepção de controle |
 
-Esses eixos orientam o valor do produto; não são uma classificação universal de compra nem benefícios demonstrados nos testes técnicos. Não é necessário encaixar obrigatoriamente quatro motivações no artigo.
+Esses benefícios orientam o produto e os estudos com o público. A avaliação técnica examina interpretação, regras e registros; ainda não mede tempo poupado, ganhos financeiros ou percepção de controle.
 
 ## Jornada preservada
 
@@ -24,7 +24,7 @@ As etapas se adaptam ao serviço; pagamentos, orçamento, visitas, recorrência 
 
 ## Contribuição que as evidências sustentam
 
-A contribuição técnica articula interpretação de pedidos, autorização e verificação dos efeitos sobre registros vinculados, acompanhada de um corpus em português e de uma comparação reproduzível de seleção de contexto.
+O protótipo relaciona o pedido aos cadastros disponíveis, prepara uma proposta para revisão e aplica as alterações autorizadas à agenda, aos materiais e aos valores a receber. A contribuição reúne esse funcionamento, cenários em português e uma comparação reproduzível dos dados selecionados para a IA.
 
 A rodada integrada de 08/11/2026 reuniu 60 cenários, 3 catálogos, 24 clientes e 6 serviços por catálogo, em 360 chamadas HTTP pareadas. O contexto selecionado consumiu 46,0% menos tokens de entrada; apresentou 178 respostas conformes em 180, frente a 176 em 180 com catálogo completo. As medianas HTTP foram 1.494,5 e 1.508,0 ms, respectivamente. Os 6 desvios foram esclarecimentos em vez da recusa esperada, sem proposta executável; o critério original foi preservado.
 

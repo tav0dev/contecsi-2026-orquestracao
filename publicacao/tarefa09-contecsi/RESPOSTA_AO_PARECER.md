@@ -27,3 +27,7 @@ Passaram 59 testes Python, 20 contratos Dart do núcleo, 14 do fluxo, 20 testes 
 - A contribuição é técnica e empírica no recorte sintético; os benefícios de tempo, resultados financeiros e tranquilidade deverão ser avaliados com o público.
 
 Diretrizes utilizadas: https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/about/submissions e modalidades: https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/schedConf/trackPolicies . Nenhuma submissão foi realizada.
+
+## Revisão de clareza
+
+Resumos e texto integral foram revistos para explicar primeiro o problema e o funcionamento da plataforma, definir os termos técnicos no método e distinguir a oferta do negócio da proposta de ação da IA. O diagrama recebeu rótulos mais diretos. Os resultados, os critérios de avaliação e as referências foram preservados. As 6 diferenças de classificação permanecem apresentadas e explicadas.

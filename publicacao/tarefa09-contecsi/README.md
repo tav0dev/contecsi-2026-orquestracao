@@ -32,7 +32,7 @@ submissões do mesmo trabalho.
 A contribuição reúne execução autorizada, seleção de contexto incorporada ao
 servidor, corpus em português e avaliação pareada. Os documentos e o suplemento
 utilizam somente a rodada integrada de 08/11/2026: 360 chamadas em 60 cenários,
-com 178/180 respostas conformes na seleção e 176/180 no catálogo completo.
+com 178/180 respostas esperadas na seleção e 176/180 no catálogo completo.
 As verificações de regras, interface, concorrência e integração remota têm
 unidades distintas e não compõem uma taxa única de qualidade.
 
@@ -67,3 +67,5 @@ do repositório atualizado, conforme a
 O envio ao congresso ocorre separadamente no
 [sistema do evento](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/author/submit).
 Nenhuma confirmação de envio, aceite ou publicação é alegada.
+
+A redação dos resumos e dos textos integrais foi revisada para clareza. Os resultados permanecem os da mesma rodada; as 6 diferenças entre esclarecimento e recusa estão explicadas nos manuscritos.

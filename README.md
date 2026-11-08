@@ -22,17 +22,17 @@ Pesquisa de Iniciação Científica da Fatec Itapetininga, organizada para a
 
 ## Problema e contribuição
 
-A pesquisa aborda o esforço de conectar informações e acompanhar processos quando
-conversas, aplicativos e registros físicos permanecem separados. O artefato
-interpreta pedidos, prepara propostas revisáveis e vincula agenda, materiais e
-valores a receber após autorização humana.
+A pesquisa aborda o trabalho de coordenar pedidos, agenda, materiais e recebimentos
+quando as informações ficam espalhadas entre conversas, aplicativos e papel.
+O responsável descreve uma necessidade; a IA prepara uma proposta, o usuário revisa
+e autoriza as ações, e o sistema atualiza os registros relacionados.
 
 A contribuição aplicada reúne o núcleo avaliado e evidências reproduzíveis sobre
 interpretação, aprovação, efeitos vinculados e seleção de contexto. O seletor está
 incorporado ao servidor. A rodada integrada de 08/11/2026 usou 60 cenários sintéticos,
 3 catálogos, 24 clientes e 6 serviços por catálogo, em 360 chamadas HTTP pareadas.
 O contexto selecionado reduziu os tokens de entrada em 46,0%, com 178/180 respostas
-conformes, frente a 176/180 com catálogo completo. Os 6 desvios foram esclarecimentos
+esperadas, frente a 176/180 com catálogo completo. Os 6 desvios foram esclarecimentos
 em vez de recusa, sem proposta executável; todos estão preservados no suplemento.
 
 A verificação remota passou em 16 checagens com 2 identidades sintéticas e 1 inferência,
@@ -48,7 +48,7 @@ validação com o público nesta etapa.
 
 ## Situação
 
-**Em revisão — atualização de 8 de novembro de 2026.** As prévias têm 16 páginas
+**Em revisão — redação atualizada em 8 de novembro de 2026.** As prévias têm 16 páginas
 no PSE e 8 no REX. PSE é a modalidade principal; o REX é uma alternativa, sem
 presumir submissão simultânea do mesmo trabalho.
 
@@ -56,3 +56,5 @@ Não houve submissão, aceite ou publicação nos anais. As pendências de concl
 estão no [README da atividade](publicacao/tarefa09-contecsi/README.md).
 O PSE é anônimo como manuscrito; o REX segue a autoria prevista no modelo.
 Credenciais e dados pessoais de inscrição ficam fora deste repositório.
+
+Resumos em português e inglês, texto integral e diagrama foram revisados para explicar o problema e o funcionamento antes dos detalhes técnicos. Os dados, as referências e os critérios da rodada foram preservados.
