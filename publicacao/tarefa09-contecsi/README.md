@@ -33,7 +33,7 @@ A contribuição é uma instância avaliada de execução autorizada, acompanhad
 corpus em português e comparação pareada de seleção de contexto. As 360 chamadas
 complementares e seus desvios foram preservados; as evidências de execução e
 acesso da aplicação têm escopos distintos e não são somadas em uma taxa geral.
-A novidade não é atribuída à presença isolada de IA, aprovação ou integração.
+A avaliação relaciona interpretação, regras, autorização e consistência dos registros.
 
 ## Modelos e exemplos
 

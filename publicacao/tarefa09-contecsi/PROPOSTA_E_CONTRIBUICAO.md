@@ -24,8 +24,8 @@ As etapas se adaptam ao serviço; pagamentos, orçamento, visitas, recorrência 
 
 ## Contribuição que as evidências sustentam
 
-A contribuição é aplicada: um núcleo de execução autorizada com efeitos vinculados, acompanhado de um corpus em português e uma comparação reproduzível de seleção de contexto. IA, integração, aprovação, chamadas e descoberta de negócios não são apresentados como novidades isoladas.
+A contribuição técnica articula interpretação de pedidos, autorização e verificação dos efeitos sobre registros vinculados, acompanhada de um corpus em português e de uma comparação reproduzível de seleção de contexto.
 
 A comparação ampliada reuniu 60 cenários, 3 catálogos, 24 clientes e 6 serviços por catálogo, em 360 chamadas pareadas. O contexto selecionado consumiu 46,0% menos tokens de entrada; apresentou 179 respostas conformes em 180, frente a 174 em 180 com catálogo completo. As medianas de inferência ficaram próximas e não houve redução de latência observada. As 7 divergências foram esclarecimentos em vez da recusa esperada, sem proposta executável. O critério de avaliação original foi preservado.
 
-Esse resultado acrescenta evidência sobre o compromisso entre contexto, concordância e consumo. Não estabelece superioridade geral, novidade de algoritmo nem economia de trabalho humano. A arquitetura do aplicativo permanece a avaliada anteriormente; o seletor é experimental e não foi incorporado ao fluxo de produção.
+O resultado caracteriza, nas condições avaliadas, a relação entre contexto, concordância e consumo. A avaliação do esforço humano e dos resultados financeiros constitui a continuidade da pesquisa com o público. A arquitetura do aplicativo permanece a avaliada anteriormente; o seletor é experimental e não foi incorporado ao fluxo de produção.

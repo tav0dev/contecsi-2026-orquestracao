@@ -15,7 +15,7 @@ Documento de origem: PDF comentado de 25 páginas recebido do orientador. PSE é
 
 O catálogo completo teve 174/180 respostas conformes; o contexto selecionado, 179/180. Foram 159.588 e 86.187 tokens de entrada, respectivamente, redução de 46,0%. As medianas da chamada ao modelo foram de 1.496,4 e 1.507,6 ms. Não houve redução da latência observada. Os resultados completos, inclusive as 7 divergências de classe, estão no suplemento.
 
-Os corpora são sintéticos e elaborados pelos pesquisadores. A ampliação aumenta a variedade do ensaio, sem provar generalização para a população ou benefício econômico ao usuário. A contribuição apresentada é técnica e empírica, sem reivindicação de algoritmo inédito ou exclusividade de funcionalidades.
+A avaliação utiliza corpora sintéticos elaborados pelos pesquisadores e amplia a variedade do ensaio de laboratório. A contribuição técnica e empírica relaciona arquitetura, instrumentos reproduzíveis e evidências sobre contexto, concordância, consumo e controle das operações. Estudos com o público permitirão examinar os benefícios pretendidos na rotina dos negócios.
 
 ## Conferências e escopo
 
