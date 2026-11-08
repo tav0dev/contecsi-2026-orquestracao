@@ -1,17 +1,13 @@
 # Referências e trabalhos relacionados
 
-As listas abaixo correspondem aos manuscritos disponíveis neste repositório.
+As listas correspondem aos manuscritos desta revisão.
 
-## Exemplos de apresentação consultados
+## Exemplos consultados
 
 - [7148 — Deploying Deep Learning Models on Cloud](https://contecsi.tecsi.org/index.php/contecsi/20CONTECSI/paper/view/7148). DOI: 10.5748/20CONTECSI/PSE/AIT/7148.
 - [7185 — Desenvolvimento e gerência de requisitos de software](https://contecsi.tecsi.org/index.php/contecsi/20CONTECSI/paper/view/7185). DOI: 10.5748/20CONTECSI/PSE/ESD/7185.
 
 ## PSE — referências
-
-AbacatePay. (s.d.). *MCP Server*. Recuperado em 9 de abril de 2026, de https://docs.abacatepay.com/pages/ai/mcp
-
-Abreu, C. (2026, 6 de janeiro). *Pix é a forma de pagamento preferida por quase seis em cada 10 donos de pequenos negócios*. Agência Sebrae de Notícias. https://agenciasebrae.com.br/economia-e-politica/pix-e-a-forma-de-pagamento-preferida-por-quase-seis-em-cada-10-donos-de-pequenos-negocios/
 
 Auvo. (s.d.-a). *Auvo OPS: CMMS para ativos críticos, SLA e múltiplos sites*. Recuperado em 29 de julho de 2026, de https://www.auvo.com/auvo-ops
 
@@ -21,29 +17,13 @@ Basili, V. R., Caldiera, G., & Rombach, H. D. (1994). Goal Question Metric parad
 
 Bek, J. (2026, 5 de março). *Services: The new software*. Sequoia Capital. https://sequoiacap.com/article/services-the-new-software
 
-Camunda. (s.d.). *Get started with agentic orchestration* (versão 8.9). Recuperado em 15 de outubro de 2026, de https://docs.camunda.io/docs/8.9/components/agentic-orchestration/agentic-orchestration-overview/
-
-Conta Azul. (s.d.). *IA da Conta Azul: automatiza seu financeiro no ERP*. Recuperado em 10 de junho de 2026, de https://contaazul.com/funcionalidades/conta-azul-ia/
-
-Ely, C. (2025, 23 de junho). *Digitalização recorde: pequenos negócios no Brasil atingem nível histórico em 2025*. Agência Sebrae de Notícias. https://agenciasebrae.com.br/inovacao-e-tecnologia/digitalizacao-recorde-pequenos-negocios-no-brasil-atingem-nivel-historico-em-2025/
-
-Ferreira, W. A. (2024). *AGENDEVC: um sistema de agendamento para prestadores e consumidores de serviços diversos* [Trabalho de conclusão de curso, Universidade Federal de Campina Grande]. https://dspace.sti.ufcg.edu.br/handle/riufcg/38362
-
 Flutter. (2026, 24 de outubro). *Support for WebAssembly (Wasm)*. Recuperado em 28 de outubro de 2026, de https://docs.flutter.dev/platform-integration/web/wasm
-
-GetNinjas. (s.d.). *Como funciona o GetNinjas?* Recuperado em 12 de março de 2026, de https://www.getninjas.com.br/central-de-ajuda/geral/quem-somos/como-funciona-o-getninjas
 
 Gomes, A. (2026, 9 de junho). *Parceria vai ampliar a participação dos pequenos negócios nas compras públicas*. Agência Sebrae de Notícias. https://agenciasebrae.com.br/economia-e-politica/parceria-vai-ampliar-a-participacao-dos-pequenos-negocios-nas-compras-publicas/
 
 Google. (s.d.). *Lighthouse user flows*. Recuperado em 9 de fevereiro de 2026, de https://github.com/GoogleChrome/lighthouse/blob/main/docs/user-flows.md
 
-Google. (2026a, 23 de outubro). *App startup time*. Android Developers. Recuperado em 29 de outubro de 2026, de https://developer.android.com/topic/performance/issues/launch-time
-
-Google. (2026b, 18 de setembro). *Gmail API overview*. Google for Developers. Recuperado em 30 de setembro de 2026, de https://developers.google.com/workspace/gmail/api/guides
-
-Google. (2026c, 25 de setembro). *Google Drive API overview*. Google for Developers. Recuperado em 7 de outubro de 2026, de https://developers.google.com/workspace/drive/api/guides/about-sdk
-
-Google. (2026d, 11 de setembro). *Push notifications*. Google Calendar for Developers. Recuperado em 24 de setembro de 2026, de https://developers.google.com/workspace/calendar/api/guides/push
+Google. (2026, 23 de outubro). *App startup time*. Android Developers. Recuperado em 29 de outubro de 2026, de https://developer.android.com/topic/performance/issues/launch-time
 
 Hevner, A. R., March, S. T., Park, J., & Ram, S. (2004). Design science in information systems research. *MIS Quarterly, 28*(1), 75–106. https://doi.org/10.2307/25148625
 
@@ -53,21 +33,9 @@ HighLevel. (s.d.-b). *GoHighLevel - It's time to take your agency to the next le
 
 Jobber. (2026, 28 de outubro). *Jobber AI Voice and Chat (Beta)*. Recuperado em 4 de novembro de 2026, de https://help.getjobber.com/en/articles/jobber-ai-voice-and-chat-beta/
 
-Meta. (s.d.-a). *Instagram Messaging*. Recuperado em 25 de junho de 2026, de https://developers.facebook.com/documentation/business-messaging/instagram-messaging
-
-Meta. (s.d.-b). *WhatsApp Business Platform*. Recuperado em 24 de abril de 2026, de https://developers.facebook.com/documentation/business-messaging/whatsapp/overview
-
-Meta. (2026, 20 de outubro). *Content publishing*. Recuperado em 30 de outubro de 2026, de https://developers.facebook.com/documentation/instagram-platform/content-publishing
+Liu, N. F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., & Liang, P. (2024). Lost in the middle: How language models use long contexts. *Transactions of the Association for Computational Linguistics, 12*, 157–173. https://doi.org/10.1162/tacl_a_00638
 
 Model Context Protocol. (2026, 28 de julho). *Architecture* (especificação 2026-07-28). https://modelcontextprotocol.io/specification/2026-07-28/architecture
-
-n8n. (s.d.). *Human-in-the-loop for tools*. Recuperado em 26 de maio de 2026, de https://docs.n8n.io/build/integrate-ai/ai-examples/human-in-the-loop-for-tools.md
-
-Nas.com. (s.d.). *Start selling with a single photo*. Recuperado em 6 de novembro de 2026, de https://nas.com/solopreneur
-
-Odoo. (s.d.). *Artificial intelligence*. Recuperado em 27 de março de 2026, de https://www.odoo.com/app/artificial-intelligence
-
-OpenAI. (s.d.). *Plugin controls*. ChatGPT Learn. Recuperado em 11 de maio de 2026, de https://learn.chatgpt.com/docs/enterprise/apps-and-connectors
 
 Peffers, K., Tuunanen, T., Rothenberger, M. A., & Chatterjee, S. (2007). A design science research methodology for information systems research. *Journal of Management Information Systems, 24*(3), 45–77. https://doi.org/10.2753/MIS0742-1222240302
 
@@ -75,13 +43,9 @@ Rajasekaran, P., Dixon, E., Ryan, C., & Hadfield, J. (2025, 29 de setembro). *Ef
 
 Redação. (2025, 17 de outubro). *WhatsApp é o principal meio de comunicação para 80% dos negócios de serviço*. Agência Sebrae de Notícias. https://agenciasebrae.com.br/cultura-empreendedora/whatsapp-e-o-principal-meio-de-comunicacao-para-80-dos-negocios-de-servico/
 
-Redação. (2026, 16 de abril). *WhatsApp se consolida nas vendas on-line enquanto Facebook e lojas próprias perdem fôlego*. Agência Sebrae de Notícias. https://agenciasebrae.com.br/dados/whatsapp-se-consolida-nas-vendas-on-line-enquanto-facebook-e-lojas-proprias-perdem-folego/
-
 Sommerville, I. (2018). *Engenharia de software* (10ª ed.). Pearson Education do Brasil.
 
 Toki. (s.d.). *Toki - O que posso resolver para você?*. Recuperado em 31 de agosto de 2026, de https://toki.com/pt
-
-Trinks. (s.d.). *Trinks IA: agendamento automático pelo WhatsApp*. Recuperado em 13 de julho de 2026, de https://ajuda.trinks.com/trinks-ia-agendamento-automatico-pelo-whatsapp
 
 Trivedi, H., Khot, T., Hartmann, M., Manku, R., Dong, V., Li, E., Gupta, S., Sabharwal, A., & Balasubramanian, N. (2024). AppWorld: A controllable world of apps and people for benchmarking interactive coding agents. In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* (pp. 16022–16076). Association for Computational Linguistics. https://doi.org/10.18653/v1/2024.acl-long.850
 

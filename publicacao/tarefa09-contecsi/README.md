@@ -1,12 +1,11 @@
 # Tarefa 09 — Trabalho CONTECSI
 
-**Modalidade principal:** PSE — Full Paper. **Alternativa preparada:** REX — Extended Abstract.
+**Modalidade principal:** PSE — Full Paper. **Alternativa:** REX — Extended Abstract.
 
-**Situação:** em revisão, atualizada em 6 de novembro de 2026.
+**Situação:** em revisão, atualizada em 8 de novembro de 2026. Submissão ao
+congresso ainda não realizada; sem data ou código de confirmação.
 
-**Submissão ao congresso:** ainda não realizada; sem data ou código de confirmação.
-
-## Trabalho
+## Trabalho e documentos
 
 **Plataforma Baseada em Inteligência Artificial para Orquestração de Processos em Pequenos Negócios**
 
@@ -14,58 +13,56 @@
 
 | Documento | Word | PDF para leitura | Modelo utilizado |
 | --- | --- | --- | --- |
-| PSE — artigo completo | [Abrir](manuscrito/artigo-completo.docx) | [Abrir](manuscrito/previa-leitura.pdf) | [PSE_COM_PORT](modelo/PSE_COM_PORT.docx) |
-| REX — resumo expandido | [Abrir](manuscrito/resumo-expandido.docx) | [Abrir](manuscrito/resumo-expandido.pdf) | [REX_CONTECSI](modelo/REX_CONTECSI.docx) |
+| PSE — principal | [Abrir](manuscrito/artigo-completo.docx) | [Abrir](manuscrito/previa-leitura.pdf) | [PSE_COM_PORT](modelo/PSE_COM_PORT.docx) |
+| REX — alternativa | [Abrir](manuscrito/resumo-expandido.docx) | [Abrir](manuscrito/resumo-expandido.pdf) | [REX_CONTECSI](modelo/REX_CONTECSI.docx) |
 
-[Referências e trabalhos anteriores consultados](referencias/fontes-e-trabalhos-relacionados.md).
+[Referências](referencias/fontes-e-trabalhos-relacionados.md) ·
+[Resposta ao parecer](RESPOSTA_AO_PARECER.md) ·
+[Proposta de valor e contribuição](PROPOSTA_E_CONTRIBUICAO.md) ·
+[Suplemento técnico](suplemento/SUPLEMENTO_TECNICO.zip) ·
+[Biografias dos três autores](biografias.md).
 
-[Biografias de Gustavo, Lauren e Deivison para revisão](biografias.md).
+## Modalidade e contribuição
 
-## Escolha da modalidade e contribuição
+O PSE permite apresentar problema, fundamentação, desenvolvimento, avaliação e
+discussão. A escolha segue a prioridade da atividade. O REX foi preparado como
+alternativa, sujeita à elegibilidade e à orientação acadêmica, sem presumir duas
+submissões do mesmo trabalho.
 
-O PSE foi escolhido por permitir apresentar o problema, a fundamentação, o método,
-o desenvolvimento do artefato e a avaliação técnica com resultados e discussão.
-Essa escolha segue a prioridade indicada na atividade. O REX está disponível como
-alternativa de contingência, sujeita à elegibilidade e à orientação acadêmica.
-Não se presume submissão simultânea das duas versões do mesmo trabalho.
-
-A contribuição é um núcleo de orquestração avaliado que relaciona interpretação
-contextualizada, verificação de regras, autorização humana e efeitos vinculados
-sobre agenda, materiais e valores a receber em pequenos negócios de serviços.
-Os textos distinguem resultados técnicos observados de benefícios pretendidos e
-de integrações propostas para evolução.
+A contribuição é uma instância avaliada de execução autorizada, acompanhada de
+corpus em português e comparação pareada de seleção de contexto. As 360 chamadas
+complementares e seus desvios foram preservados; as evidências de execução e
+acesso da aplicação têm escopos distintos e não são somadas em uma taxa geral.
+A novidade não é atribuída à presença isolada de IA, aprovação ou integração.
 
 ## Modelos e exemplos
 
-Os modelos utilizados estão na pasta [modelo](modelo/). A composição da primeira
-página segue o modelo de cada modalidade. O PSE usa Times New Roman 12 e entrelinha
-1,5 conforme as [Diretrizes para Autores](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/about/submissions);
-o REX usa Arial 12 e as instruções específicas do modelo fornecido.
+O PSE utiliza Times New Roman 12 e entrelinha 1,5 conforme as
+[Diretrizes para Autores](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/about/submissions).
+O REX utiliza Arial 12 e as instruções próprias do modelo. Os limites publicados
+são 10–30 páginas para PSE e 5–8 para REX; as prévias atuais têm 17 e 8 páginas.
 
-Dois trabalhos PSE da 20ª edição foram consultados como exemplos para a modalidade principal:
+Exemplos PSE da 20ª edição consultados para apresentação:
 
-1. [7148 — Deploying Deep Learning Models on Cloud](https://contecsi.tecsi.org/index.php/contecsi/20CONTECSI/paper/view/7148): apresentação da configuração e das medidas de desempenho.
-2. [7185 — Desenvolvimento e gerência de requisitos de software](https://contecsi.tecsi.org/index.php/contecsi/20CONTECSI/paper/view/7185): organização da fundamentação, proposta e demonstração.
+1. [7148 — Deploying Deep Learning Models on Cloud](https://contecsi.tecsi.org/index.php/contecsi/20CONTECSI/paper/view/7148): configuração e medidas de desempenho.
+2. [7185 — Desenvolvimento e gerência de requisitos de software](https://contecsi.tecsi.org/index.php/contecsi/20CONTECSI/paper/view/7185): fundamentação, proposta e demonstração.
 
-Os exemplos orientam a apresentação; as regras e os modelos da edição atual são
-as referências para a formatação de cada modalidade.
+Os exemplos orientam a apresentação; as regras da edição atual orientam o manuscrito.
 
-## Pendências e plano de conclusão
+## Conclusão da entrega
 
 | Pendência | Próximo passo |
 | --- | --- |
-| Paginação no Word | Abrir os DOCX no Microsoft Word e conferir a disposição final. |
-| Identificação de apoio de IA | Esclarecer a aplicação da regra de marcação de trechos assistidos; a declaração da ferramenta e finalidade está nos textos. |
-| Divulgação prévia e ineditismo | Confirmar o tratamento dado ao manuscrito disponibilizado no GitHub; as diretrizes não detalham uma política de preprints. |
-| Cadastro do REX | Completar os campos pessoais restantes na versão definitiva, de forma privada. Os três e-mails e a titulação do orientador já estão informados. |
-| Envio ao evento | Confirmar chamada aberta e elegibilidade; preencher metadados; concluir o envio da modalidade escolhida e registrar a confirmação. |
+| Revisão dos autores | Conferir a contribuição aplicada, os resultados e as biografias. |
+| Disposição no Word | A versão anterior foi conferida pelo autor; conferir a nova versão após a revisão de conteúdo. PDFs são prévias Chromium. |
+| Política de IA | A declaração da ferramenta e finalidade foi preservada; esclarecer a aplicação da exigência de marcação do evento. |
+| Divulgação prévia e ineditismo | Confirmar o tratamento do manuscrito disponibilizado no GitHub; as diretrizes não detalham preprints. |
+| Cadastro | Completar privadamente os campos de inscrição restantes e a versão definitiva do REX. |
+| Envio | Conferir chamada e elegibilidade, preencher metadados, submeter a modalidade escolhida e registrar a confirmação. |
 
-A coautoria e a ordem dos três autores estão confirmadas. As biografias foram
-preparadas para revisão pelos autores. Os dados de inscrição ficam fora dos
-materiais compartilhados neste repositório.
-
-Conforme o [enunciado da Tarefa 09](https://github.com/deivisontakatu/aula-iniciacao-cientifica/blob/main/Tarefa/Tarefa%2009.md),
-a entrega da disciplina é o link do repositório atualizado, enviado ao grupo de
-WhatsApp. A submissão ao CONTECSI ocorre separadamente no
+Coautoria e ordem dos três autores confirmadas. A entrega da disciplina é o link
+do repositório atualizado, conforme a
+[Tarefa 09](https://github.com/deivisontakatu/aula-iniciacao-cientifica/blob/main/Tarefa/Tarefa%2009.md).
+O envio ao congresso ocorre separadamente no
 [sistema do evento](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/author/submit).
-Nenhuma confirmação de envio, aceite ou publicação é alegada nesta etapa.
+Nenhuma confirmação de envio, aceite ou publicação é alegada.
