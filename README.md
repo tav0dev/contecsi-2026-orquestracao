@@ -28,12 +28,18 @@ interpreta pedidos, prepara propostas revisáveis e vincula agenda, materiais e
 valores a receber após autorização humana.
 
 A contribuição aplicada reúne o núcleo avaliado e evidências reproduzíveis sobre
-interpretação, aprovação, efeitos vinculados e seleção de contexto. Uma comparação
-complementar usou 60 cenários sintéticos, 3 catálogos, 24 clientes e 6 serviços por
-catálogo, em 360 chamadas pareadas. O contexto selecionado reduziu os tokens de
-entrada em 46,0%, com 179/180 respostas conformes, frente a 174/180 com catálogo
-completo. Não houve redução da latência observada. Os registros completos,
-inclusive as divergências de classe, estão no suplemento.
+interpretação, aprovação, efeitos vinculados e seleção de contexto. O seletor está
+incorporado ao servidor. A rodada integrada de 08/11/2026 usou 60 cenários sintéticos,
+3 catálogos, 24 clientes e 6 serviços por catálogo, em 360 chamadas HTTP pareadas.
+O contexto selecionado reduziu os tokens de entrada em 46,0%, com 178/180 respostas
+conformes, frente a 176/180 com catálogo completo. Os 6 desvios foram esclarecimentos
+em vez de recusa, sem proposta executável; todos estão preservados no suplemento.
+
+A verificação remota passou em 16 checagens com 2 identidades sintéticas e 1 inferência,
+sem confirmar operações ou alterar registros do negócio. Regras, interface e
+concorrência foram verificadas nesta mesma rodada. As contagens de testes não são
+somadas em uma taxa geral. O suplemento contém os resultados desta rodada e os
+comandos para refazer a análise sem chamadas pagas.
 
 A visão de evolução acompanha a jornada da definição à análise e revisão da oferta
 e da operação, incluindo a futura descoberta e contratação por consumidores.
@@ -42,7 +48,7 @@ validação com o público nesta etapa.
 
 ## Situação
 
-**Em revisão — atualização de 8 de novembro de 2026.** As prévias têm 17 páginas
+**Em revisão — atualização de 8 de novembro de 2026.** As prévias têm 16 páginas
 no PSE e 8 no REX. PSE é a modalidade principal; o REX é uma alternativa, sem
 presumir submissão simultânea do mesmo trabalho.
 

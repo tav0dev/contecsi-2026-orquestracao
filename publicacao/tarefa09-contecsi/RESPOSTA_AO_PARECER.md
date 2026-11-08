@@ -4,26 +4,26 @@ Documento de origem: PDF comentado de 25 páginas recebido do orientador. PSE é
 
 | Comentário | Alteração realizada | Local no PSE revisado |
 | --- | --- | --- |
-| C1: demonstrar originalidade com comparação sistemática | Comparação documental por critérios comuns; discussão com FlowMind, AppWorld e τ-bench; inclusão de experimento pareado de contexto e explicitação da contribuição aplicada | Seções 2.2 e 5.4; Quadro 1; Tabela 2 |
-| C2: ampliar solicitações e discutir generalização | Corpus complementar de 60 cenários em 3 domínios, 360 chamadas; análise por classe e estabilidade por cenário; limites de amostragem sintética explicitados | Seções 3.3, 5.2 e 5.4 |
-| C3: ampliar catálogo de 1 cliente e 1 serviço | 24 clientes e 6 serviços por catálogo, nomes semelhantes, durações de 30 a 240 minutos; 3 domínios | Seção 3.3 e suplemento |
-| C4: identificar provedor, modelo, versão e parâmetros | OpenAI Responses API; gpt-6-luna solicitado e registrado; ausência de snapshot datado fixado; esquema estrito, limite de saída, reasoning, store, parâmetros não enviados e timeout | Seção 3.3; código e registros do suplemento |
-| C5: separar implementação e integrações futuras | Figura 2 explicita integrações externas fora dos ensaios; Quadro 3 distingue núcleo, experimento separado e evolução; mantida a visão de ponta a ponta e futura descoberta por consumidores | Seções 4.1 e 4.2; Figura 2; Quadro 3 |
-| C6: reduzir extensão e conferir limite | Redução de 41 para 23 referências e de 5 para 3 figuras; corte de repetições da jornada e dos resultados; prévia PSE com 17 páginas e REX com 8 | Manuscritos revisados |
+| C1: demonstrar originalidade com comparação sistemática | Comparação documental por critérios comuns e discussão com FlowMind, AppWorld e τ-bench; contribuição aplicada sustentada por comparação pareada de contexto | Seções 2.2 e 5.4; Quadro 1; Tabela 2 |
+| C2: ampliar solicitações e discutir generalização | Corpus de 60 cenários em 3 domínios, 360 chamadas; análise por classe e estabilidade por cenário; alcance sintético explicitado | Seções 3.3, 5.2 e 5.4 |
+| C3: ampliar catálogo de 1 cliente e 1 serviço | 24 clientes e 6 serviços por catálogo, nomes semelhantes e durações de 30 a 240 minutos | Seção 3.3 e suplemento |
+| C4: identificar provedor, modelo, versão e parâmetros | OpenAI Responses API; gpt-6-luna solicitado e registrado; esquema estrito, limite de saída, reasoning, store, parâmetros não enviados e timeout; ausência de snapshot datado fixado | Seção 3.3; fontes e registros do suplemento |
+| C5: separar implementação e integrações futuras | Seleção incorporada ao servidor; Figura 2 e Quadro 3 distinguem núcleo implementado de conectores externos e jornada futura | Seções 4.1 e 4.2; Figura 2; Quadro 3 |
+| C6: reduzir extensão e conferir limite | 21 referências e 3 figuras no PSE; tabelas concentram resultados; prévias com 16 páginas no PSE e 8 no REX | Manuscritos revisados |
 
-## O que os novos resultados demonstram
+## Resultados desta rodada
 
-O catálogo completo teve 174/180 respostas conformes; o contexto selecionado, 179/180. Foram 159.588 e 86.187 tokens de entrada, respectivamente, redução de 46,0%. As medianas da chamada ao modelo foram de 1.496,4 e 1.507,6 ms. Não houve redução da latência observada. Os resultados completos, inclusive as 7 divergências de classe, estão no suplemento.
+As 360 chamadas pelo HTTP do servidor integrado foram concluídas sem repetição automática: 176/180 respostas conformes com catálogo completo e 178/180 com seleção. Foram 159.588 e 86.187 tokens de entrada, redução de 46,0%. As medianas HTTP foram 1.508,0 e 1.494,5 ms. Todos os registros, inclusive os 6 desvios de esclarecimento em vez de recusa, estão no suplemento. Nenhum desvio continha proposta executável.
 
-A avaliação utiliza corpora sintéticos elaborados pelos pesquisadores e amplia a variedade do ensaio de laboratório. A contribuição técnica e empírica relaciona arquitetura, instrumentos reproduzíveis e evidências sobre contexto, concordância, consumo e controle das operações. Estudos com o público permitirão examinar os benefícios pretendidos na rotina dos negócios.
+Passaram 59 testes Python, 20 contratos Dart do núcleo, 14 do fluxo, 20 testes Flutter e 3 disputas SQL. A verificação remota passou em 16 checagens com 2 identidades sintéticas e 1 inferência real, sem confirmar operações ou alterar registros do negócio. Ela não integra a taxa de concordância das 360 chamadas. A discussão do REX relaciona diretamente resultados, FlowMind, AppWorld e Goal Question Metric.
 
-## Conferências e escopo
+## Rastreabilidade e escopo
 
-- As 360 chamadas foram concluídas sem repetição automática, com os resultados esperados congelados antes da coleta.
-- Nenhuma gravação de negócio ou integração externa foi executada na comparação.
-- As 37 fontes congeladas da avaliação do aplicativo de 06/11 continuam com os mesmos hashes. Não houve nova alteração de interface ou transferência de métricas para um aplicativo modificado.
-- As evidências integradas de 06/11 e a comparação de inferência de 08/11 têm escopos diferentes e não foram somadas em uma taxa geral.
-- Os PDFs são prévias de leitura geradas em Chromium. A conferência no Word informada pelo autor se refere à versão anterior; a nova disposição pode variar no Word.
-- A avaliação do orientador sobre suficiência da contribuição continua sendo acadêmica; esta resposta registra alterações e evidências, não aceite do evento.
+- PSE, REX e suplemento utilizam somente a rodada integrada de 08/11/2026. Os resultados anteriores permanecem arquivados, sem entrar nas contagens atuais.
+- O seletor integra o fluxo principal. A comparação tem inferência real e transportes controlados de catálogo e revisão, sem gravações de negócio.
+- O servidor atual e as fontes da rodada têm hashes próprios. As 37 fontes históricas de 06/11 foram preservadas em uma cópia identificada, sem atribuir suas métricas à versão modificada.
+- O suplemento reúne cenários, oráculo, respostas, análise, fontes e registros sem credenciais. Os comandos permitem reproduzir a análise e os testes Python sem chamadas pagas; SQL e Flutter têm dependências documentadas.
+- Os PDFs são prévias de leitura geradas em Chromium. A conferência visual da versão atual no Microsoft Word permanece indicada, pois a paginação pode variar.
+- A contribuição é técnica e empírica no recorte sintético; os benefícios de tempo, resultados financeiros e tranquilidade deverão ser avaliados com o público.
 
-Diretrizes consultadas: https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/about/submissions e modalidades: https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/schedConf/trackPolicies .
+Diretrizes utilizadas: https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/about/submissions e modalidades: https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/schedConf/trackPolicies . Nenhuma submissão foi realizada.

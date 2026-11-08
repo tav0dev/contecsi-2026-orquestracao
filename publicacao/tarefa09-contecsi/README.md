@@ -29,18 +29,19 @@ discussão. A escolha segue a prioridade da atividade. O REX foi preparado como
 alternativa, sujeita à elegibilidade e à orientação acadêmica, sem presumir duas
 submissões do mesmo trabalho.
 
-A contribuição é uma instância avaliada de execução autorizada, acompanhada de
-corpus em português e comparação pareada de seleção de contexto. As 360 chamadas
-complementares e seus desvios foram preservados; as evidências de execução e
-acesso da aplicação têm escopos distintos e não são somadas em uma taxa geral.
-A avaliação relaciona interpretação, regras, autorização e consistência dos registros.
+A contribuição reúne execução autorizada, seleção de contexto incorporada ao
+servidor, corpus em português e avaliação pareada. Os documentos e o suplemento
+utilizam somente a rodada integrada de 08/11/2026: 360 chamadas em 60 cenários,
+com 178/180 respostas conformes na seleção e 176/180 no catálogo completo.
+As verificações de regras, interface, concorrência e integração remota têm
+unidades distintas e não compõem uma taxa única de qualidade.
 
 ## Modelos e exemplos
 
 O PSE utiliza Times New Roman 12 e entrelinha 1,5 conforme as
 [Diretrizes para Autores](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/about/submissions).
 O REX utiliza Arial 12 e as instruções próprias do modelo. Os limites publicados
-são 10–30 páginas para PSE e 5–8 para REX; as prévias atuais têm 17 e 8 páginas.
+são 10–30 páginas para PSE e 5–8 para REX; as prévias atuais têm 16 e 8 páginas.
 
 Exemplos PSE da 20ª edição consultados para apresentação:
 

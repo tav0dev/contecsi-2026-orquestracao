@@ -21,10 +21,6 @@ Flutter. (2026, 24 de outubro). *Support for WebAssembly (Wasm)*. Recuperado em 
 
 Gomes, A. (2026, 9 de junho). *Parceria vai ampliar a participação dos pequenos negócios nas compras públicas*. Agência Sebrae de Notícias. https://agenciasebrae.com.br/economia-e-politica/parceria-vai-ampliar-a-participacao-dos-pequenos-negocios-nas-compras-publicas/
 
-Google. (s.d.). *Lighthouse user flows*. Recuperado em 9 de fevereiro de 2026, de https://github.com/GoogleChrome/lighthouse/blob/main/docs/user-flows.md
-
-Google. (2026, 23 de outubro). *App startup time*. Android Developers. Recuperado em 29 de outubro de 2026, de https://developer.android.com/topic/performance/issues/launch-time
-
 Hevner, A. R., March, S. T., Park, J., & Ram, S. (2004). Design science in information systems research. *MIS Quarterly, 28*(1), 75–106. https://doi.org/10.2307/25148625
 
 HighLevel. (s.d.-a). *Connect Jobber to HighLevel for unified marketing and job management*. Recuperado em 9 de setembro de 2026, de https://www.gohighlevel.com/jobber
