@@ -1,73 +1,60 @@
 # Tarefa 09 — Trabalho CONTECSI
 
-**Modalidade principal:** PSE — Full Paper. **Alternativa:** REX — Extended Abstract.
+**Modalidade principal:** PSE — artigo completo. **Alternativa:** REX — resumo expandido.
+**Situação:** em revisão; nenhuma submissão, aceite ou publicação nos anais.
 
-**Situação:** em revisão, atualizada em 8 de novembro de 2026. Submissão ao
-congresso ainda não realizada; sem data ou código de confirmação.
-
-## Trabalho e documentos
+## Documentos e modelos
 
 **Plataforma Baseada em Inteligência Artificial para Orquestração de Processos em Pequenos Negócios**
 
 *Artificial Intelligence-Based Platform for Business Process Orchestration in Small Businesses*
 
-| Documento | Word | PDF para leitura | Modelo utilizado |
+| Documento | Word | PDF para leitura | Modelo |
 | --- | --- | --- | --- |
 | PSE — principal | [Abrir](manuscrito/artigo-completo.docx) | [Abrir](manuscrito/previa-leitura.pdf) | [PSE_COM_PORT](modelo/PSE_COM_PORT.docx) |
 | REX — alternativa | [Abrir](manuscrito/resumo-expandido.docx) | [Abrir](manuscrito/resumo-expandido.pdf) | [REX_CONTECSI](modelo/REX_CONTECSI.docx) |
 
-[Referências](referencias/fontes-e-trabalhos-relacionados.md) ·
+[Referências e exemplos consultados](referencias/fontes-e-trabalhos-relacionados.md) ·
 [Resposta ao parecer](RESPOSTA_AO_PARECER.md) ·
-[Proposta de valor e contribuição](PROPOSTA_E_CONTRIBUICAO.md) ·
-[Suplemento técnico](suplemento/SUPLEMENTO_TECNICO.zip) ·
-[Biografias dos três autores](biografias.md).
+[Problema, valor e contribuição](PROPOSTA_E_CONTRIBUICAO.md) ·
+[Material de apoio](suplemento/SUPLEMENTO_TECNICO.zip) ·
+[Biografias para revisão](biografias.md).
 
-## Modalidade e contribuição
+## Versão atual
 
-O PSE permite apresentar problema, fundamentação, desenvolvimento, avaliação e
-discussão. A escolha segue a prioridade da atividade. O REX foi preparado como
-alternativa, sujeita à elegibilidade e à orientação acadêmica, sem presumir duas
-submissões do mesmo trabalho.
+As prévias têm **15 páginas no PSE** e **7 no REX**. O texto foi condensado;
+a configuração da IA está em quadro e as telas mostram proposta, agenda e valores
+a receber. APIs, webhooks e MCP aparecem como mecanismos das conexões propostas.
+Os resultados, as referências e os critérios da avaliação foram preservados.
 
-A contribuição reúne execução autorizada, seleção de contexto incorporada ao
-servidor, corpus em português e avaliação pareada. Os documentos e o suplemento
-utilizam somente a rodada integrada de 08/11/2026: 360 chamadas em 60 cenários,
-com 178/180 respostas esperadas na seleção e 176/180 no catálogo completo.
-As verificações de regras, interface, concorrência e integração remota têm
-unidades distintas e não compõem uma taxa única de qualidade.
+O PSE apresenta problema, fundamentos, método, protótipo e avaliação. O REX é uma
+alternativa sujeita à orientação acadêmica; não se pressupõe submissão simultânea
+do mesmo trabalho.
 
-## Modelos e exemplos
+## Formatação e material de apoio
 
-O PSE utiliza Times New Roman 12 e entrelinha 1,5 conforme as
-[Diretrizes para Autores](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/about/submissions).
-O REX utiliza Arial 12 e as instruções próprias do modelo. Os limites publicados
-são 10–30 páginas para PSE e 5–8 para REX; as prévias atuais têm 17 e 8 páginas.
+As [modalidades oficiais](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/schedConf/trackPolicies)
+publicam limites de 10–30 páginas para PSE e 5–8 para REX, incluindo figuras e
+referências. O PSE utiliza Times New Roman 12 e entrelinha 1,5 conforme as
+[Diretrizes para Autores](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/about/submissions);
+o REX segue Arial 12 e as instruções de seu modelo.
 
-Exemplos PSE da 20ª edição consultados para apresentação:
+O ZIP permite refazer a análise dos dados registrados sem novas chamadas pagas.
+Nova inferência exige acesso próprio ao provedor. As diretrizes informam que
+suplementos só são inseridos quando solicitados pela coordenação; o material está
+disponível aqui para revisão e conferência.
 
-1. [7148 — Deploying Deep Learning Models on Cloud](https://contecsi.tecsi.org/index.php/contecsi/20CONTECSI/paper/view/7148): configuração e medidas de desempenho.
-2. [7185 — Desenvolvimento e gerência de requisitos de software](https://contecsi.tecsi.org/index.php/contecsi/20CONTECSI/paper/view/7185): fundamentação, proposta e demonstração.
+## Conferências antes da submissão
 
-Os exemplos orientam a apresentação; as regras da edição atual orientam o manuscrito.
-
-## Conclusão da entrega
-
-| Pendência | Próximo passo |
+| Item | Ação |
 | --- | --- |
-| Revisão dos autores | Conferir a contribuição aplicada, os resultados e as biografias. |
-| Disposição no Word | A versão anterior foi conferida pelo autor; conferir a nova versão após a revisão de conteúdo. PDFs são prévias Chromium. |
-| Política de IA | A declaração da ferramenta e finalidade foi preservada; esclarecer a aplicação da exigência de marcação do evento. |
-| Divulgação prévia e ineditismo | Confirmar o tratamento do manuscrito disponibilizado no GitHub; as diretrizes não detalham preprints. |
-| Cadastro | Completar privadamente os campos de inscrição restantes e a versão definitiva do REX. |
-| Envio | Conferir chamada e elegibilidade, preencher metadados, submeter a modalidade escolhida e registrar a confirmação. |
+| Autores | Revisar conteúdo e biografias; coautoria e ordem já confirmadas. |
+| Word | Conferir a disposição nativa; os PDFs são prévias Chromium. |
+| IA | Preservar a declaração e esclarecer a aplicação da regra de marcação do evento. |
+| Cadastro e envio | Completar privadamente os campos, conferir elegibilidade e registrar a confirmação após o envio. |
 
-Coautoria e ordem dos três autores confirmadas. A entrega da disciplina é o link
-do repositório atualizado, conforme a
+A entrega da disciplina é o link do repositório, conforme a
 [Tarefa 09](https://github.com/deivisontakatu/aula-iniciacao-cientifica/blob/main/Tarefa/Tarefa%2009.md).
-O envio ao congresso ocorre separadamente no
+A submissão ao congresso ocorre separadamente no
 [sistema do evento](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/author/submit).
-Nenhuma confirmação de envio, aceite ou publicação é alegada.
-
-A redação dos resumos e dos textos integrais foi revisada para clareza. Os resultados permanecem os da mesma rodada; as 6 diferenças entre esclarecimento e recusa estão explicadas nos manuscritos.
-
-A proposta de valor prioriza resultados financeiros, tempo disponível, controle e tranquilidade. A explicação do método distingue verificação remota de integração e comparação das respostas da IA dentro da mesma avaliação. O PSE tem quadros próprios para plataformas de mercado e trabalhos científicos; os alertas por ligação ao responsável permanecem como evolução proposta.
+Credenciais e dados pessoais de inscrição não são publicados.

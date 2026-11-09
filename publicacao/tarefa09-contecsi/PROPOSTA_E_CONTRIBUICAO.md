@@ -4,7 +4,7 @@ A plataforma se destina inicialmente ao responsável pelo pequeno negócio de se
 
 ## Problema que organiza a proposta
 
-O responsável precisa conectar informações e acompanhar a continuidade dos processos quando conversas, aplicativos e registros físicos permanecem separados. Uma mudança pode exigir conferir agenda, materiais e recebimentos. O problema atravessa a jornada; o agendamento é o cenário usado para observar seus efeitos técnicos.
+Entre o pedido e o recebimento, o responsável precisa relacionar cliente, agenda, materiais e valores a cobrar. Informações dispersas exigem conferências repetidas e criam risco de esquecer compromissos ou cobranças. O protótipo demonstra a atualização conjunta desses registros sob autorização; essa ligação aproxima o funcionamento técnico do valor financeiro e operacional pretendido.
 
 ## Benefícios prioritários
 
@@ -31,3 +31,7 @@ A rodada integrada de 08/11/2026 reuniu 60 cenários, 3 catálogos, 24 clientes 
 O seletor está incorporado ao servidor, depois da obtenção do catálogo autenticado e antes da inferência. A verificação remota passou em 16 checagens com 2 identidades sintéticas e 1 inferência, sem confirmar propostas ou alterar registros do negócio. A comparação utiliza consulta de catálogo e revisão controladas; os ensaios de gravação, transição e concorrência foram realizados em banco SQL descartável.
 
 O resultado caracteriza a relação entre contexto, concordância e consumo nas condições avaliadas. A avaliação do esforço humano e dos resultados financeiros constitui a continuidade da pesquisa com o público. A jornada completa, os conectores externos e a descoberta dos negócios por consumidores permanecem como evolução proposta.
+
+## Leitura do produto nas telas
+
+As Figuras 3 e 4 do PSE ligam pedido, revisão, agendamento, materiais e valor a receber. A Carteira ilustra o acompanhamento financeiro implementado; outras telas só devem ser acrescentadas quando ajudarem a explicar a contribuição avaliada. APIs, webhooks e MCP permanecem na proposta de integração com ferramentas existentes.

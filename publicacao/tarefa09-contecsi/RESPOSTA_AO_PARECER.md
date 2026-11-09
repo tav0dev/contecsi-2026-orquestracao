@@ -4,12 +4,12 @@ Documento de origem: PDF comentado de 25 páginas recebido do orientador. PSE é
 
 | Comentário | Alteração realizada | Local no PSE revisado |
 | --- | --- | --- |
-| C1: demonstrar originalidade com comparação sistemática | Comparação documental por critérios comuns e discussão com FlowMind, AppWorld e τ-bench; contribuição aplicada sustentada por comparação pareada de contexto | Seções 2.2 e 5.4; Quadros 1 e 2; Tabela 2 |
-| C2: ampliar solicitações e discutir generalização | Corpus de 60 cenários em 3 domínios, 360 chamadas; análise por classe e estabilidade por cenário; alcance sintético explicitado | Seções 3.3, 5.2 e 5.4 |
-| C3: ampliar catálogo de 1 cliente e 1 serviço | 24 clientes e 6 serviços por catálogo, nomes semelhantes e durações de 30 a 240 minutos | Seção 3.3 e suplemento |
-| C4: identificar provedor, modelo, versão e parâmetros | OpenAI Responses API; gpt-6-luna solicitado e registrado; esquema estrito, limite de saída, reasoning, store, parâmetros não enviados e timeout; ausência de snapshot datado fixado | Seção 3.3; fontes e registros do suplemento |
-| C5: separar implementação e integrações futuras | Seleção incorporada ao servidor; Figura 2 e Quadro 4 distinguem núcleo implementado de conectores externos e jornada futura | Seções 4.1 e 4.2; Figura 2; Quadro 4 |
-| C6: reduzir extensão e conferir limite | 21 referências e 3 figuras no PSE; tabelas concentram resultados; prévias com 17 páginas no PSE e 8 no REX | Manuscritos revisados |
+| C1: demonstrar originalidade com comparação sistemática | Comparação documental por critérios comuns e discussão com FlowMind, AppWorld e τ-bench; contribuição aplicada sustentada por comparação pareada de contexto | Seções 2.2 e 5.3; Quadros 1 e 2; Tabela 2 |
+| C2: ampliar solicitações e discutir generalização | Corpus de 60 cenários em 3 domínios, 360 chamadas; análise por classe e estabilidade por cenário; alcance sintético explicitado | Seções 3.2, 5.2 e 5.3 |
+| C3: ampliar catálogo de 1 cliente e 1 serviço | 24 clientes e 6 serviços por catálogo, nomes semelhantes e durações de 30 a 240 minutos | Seção 3.2 e suplemento |
+| C4: identificar provedor, modelo, versão e parâmetros | OpenAI Responses API; gpt-6-luna solicitado e registrado; esquema estrito, limite de saída, reasoning, store, parâmetros não enviados e timeout; ausência de snapshot datado fixado | Seção 3.2; Quadro 4; fontes e registros do suplemento |
+| C5: separar implementação e integrações futuras | Seleção incorporada ao servidor; Figura 2 e Quadro 5 distinguem núcleo implementado de conectores externos e jornada futura | Seções 4.1 e 4.2; Figura 2; Quadro 5 |
+| C6: reduzir extensão e conferir limite | 21 referências e 4 figuras no PSE; texto condensado, parâmetros em quadro e telas de operação/Carteira; prévias com 15 páginas no PSE e 7 no REX | Manuscritos revisados |
 
 ## Resultados desta rodada
 
@@ -35,3 +35,7 @@ Resumos e texto integral foram revistos para explicar primeiro o problema e o fu
 A proposta de valor prioriza resultados financeiros, tempo disponível, controle e tranquilidade. Decisões gerenciais e estratégicas são apresentadas como um possível uso do tempo recuperado. Os resumos explicitam quem descreve o pedido, reúne os dados, prepara a proposta e autoriza ou recusa sua execução; a escolha dos cadastros enviados à IA é explicada antes dos resultados.
 
 As plataformas de mercado e os trabalhos científicos têm quadros próprios. O Quadro 2 relaciona FlowMind, AppWorld e τ-bench às decisões de desenvolvimento e avaliação. A evolução de alertas por ligação ao responsável aparece no quadro de escopo e na discussão de futuras integrações, sem ser apresentada como função implementada ou resultado dos testes.
+
+## Síntese e apresentação visual
+
+O texto foi condensado no conjunto do artigo. O problema parte da ligação entre pedido, serviço e recebimento. A configuração da IA foi concentrada no Quadro 4; o escopo é o Quadro 5. APIs, webhooks e MCP estão identificados na Figura 2 e no texto como mecanismos das conexões propostas. A Figura 4 mostra operação e valores a receber em telas implementadas com dados sintéticos. A explicação do material de apoio foi reduzida e incorporada ao método. Os resultados e a configuração experimental foram preservados.

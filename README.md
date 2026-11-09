@@ -4,7 +4,7 @@
 
 *Artificial Intelligence-Based Platform for Business Process Orchestration in Small Businesses*
 
-Pesquisa de Iniciação Científica da Fatec Itapetininga, organizada para a
+Pesquisa de Iniciação Científica da Fatec Itapetininga, preparada para a
 [Tarefa 09 — CONTECSI](https://github.com/deivisontakatu/aula-iniciacao-cientifica/blob/main/Tarefa/Tarefa%2009.md).
 
 ## Documentos para revisão
@@ -15,49 +15,40 @@ Pesquisa de Iniciação Científica da Fatec Itapetininga, organizada para a
 | **REX — resumo expandido**, alternativa | [Abrir](publicacao/tarefa09-contecsi/manuscrito/resumo-expandido.docx) | [Abrir](publicacao/tarefa09-contecsi/manuscrito/resumo-expandido.pdf) |
 
 [Resposta ao parecer](publicacao/tarefa09-contecsi/RESPOSTA_AO_PARECER.md) ·
-[Proposta de valor e contribuição](publicacao/tarefa09-contecsi/PROPOSTA_E_CONTRIBUICAO.md) ·
-[Suplemento técnico](publicacao/tarefa09-contecsi/suplemento/SUPLEMENTO_TECNICO.zip) ·
-[Modelos e entrega da atividade](publicacao/tarefa09-contecsi/README.md) ·
+[Problema, valor e contribuição](publicacao/tarefa09-contecsi/PROPOSTA_E_CONTRIBUICAO.md) ·
+[Material de apoio](publicacao/tarefa09-contecsi/suplemento/SUPLEMENTO_TECNICO.zip) ·
+[Modelos e entrega](publicacao/tarefa09-contecsi/README.md) ·
 [Biografias para revisão](publicacao/tarefa09-contecsi/biografias.md).
 
-## Problema e contribuição
+## Problema, proposta e evidências
 
-A pesquisa aborda o trabalho de coordenar pedidos, agenda, materiais e recebimentos
-quando as informações ficam espalhadas entre conversas, aplicativos e papel.
-O responsável descreve uma necessidade; a IA prepara uma proposta, o usuário revisa
-e autoriza as ações, e o sistema atualiza os registros relacionados.
+Entre o pedido e o recebimento, o responsável precisa relacionar cliente, agenda,
+materiais e valores a cobrar. O protótipo recebe uma necessidade, reúne dados e
+apresenta uma proposta da IA para revisão. A autorização atualiza os registros
+relacionados; repetição, cancelamento e conclusão seguem regras verificadas.
 
-A contribuição aplicada reúne o núcleo avaliado e evidências reproduzíveis sobre
-interpretação, aprovação, efeitos vinculados e seleção de contexto. O seletor está
-incorporado ao servidor. A rodada integrada de 08/11/2026 usou 60 cenários sintéticos,
-3 catálogos, 24 clientes e 6 serviços por catálogo, em 360 chamadas HTTP pareadas.
-O contexto selecionado reduziu os tokens de entrada em 46,0%, com 178/180 respostas
-esperadas, frente a 176/180 com catálogo completo. Os 6 desvios foram esclarecimentos
-em vez de recusa, sem proposta executável; todos estão preservados no suplemento.
+A comparação usa 60 cenários sintéticos, 3 catálogos, 24 clientes e 6 serviços por
+catálogo, em 360 chamadas. Escolher registros reduziu os tokens de entrada em
+46,0%, com 178/180 respostas esperadas, ante 176/180 com cadastro completo.
+Os 6 desvios foram esclarecimentos em vez de recusa, sem proposta executável;
+todos foram preservados. Testes de regras, interface, concorrência e integração
+complementam a avaliação, com unidades próprias e sem taxa geral agregada.
 
-A verificação remota passou em 16 checagens com 2 identidades sintéticas e 1 inferência,
-sem confirmar operações ou alterar registros do negócio. Regras, interface e
-concorrência foram verificadas nesta mesma rodada. As contagens de testes não são
-somadas em uma taxa geral. O suplemento contém os resultados desta rodada e os
-comandos para refazer a análise sem chamadas pagas.
-
-A visão de evolução acompanha a jornada da definição à análise e revisão da oferta
-e da operação, incluindo a futura descoberta e contratação por consumidores.
 Resultados financeiros, tempo disponível, controle e tranquilidade são os benefícios
-centrais pretendidos. Decisões gerenciais e estratégicas são um possível uso do tempo
-recuperado. Esses benefícios deverão ser avaliados com o público.
+pretendidos. A evolução acompanha a jornada da definição à análise e revisão da
+oferta e da operação, incluindo descoberta por consumidores, conexões externas e
+ligações ao responsável. Esses recursos e benefícios têm avaliação própria.
 
 ## Situação
 
-**Em revisão — redação atualizada em 8 de novembro de 2026.** As prévias têm 17 páginas
-no PSE e 8 no REX. PSE é a modalidade principal; o REX é uma alternativa, sem
-presumir submissão simultânea do mesmo trabalho.
+**Em revisão — atualização de 8 de novembro de 2026.** A redação foi condensada e
+as telas passaram a mostrar também a Carteira. As prévias têm **15 páginas no PSE**
+e **7 no REX**. Os resultados são os da mesma rodada; referências e critérios foram
+preservados. O material de apoio permite refazer a análise dos registros sem novas
+chamadas pagas. Nova inferência exige acesso ao provedor.
 
-Não houve submissão, aceite ou publicação nos anais. As pendências de conclusão
-estão no [README da atividade](publicacao/tarefa09-contecsi/README.md).
-O PSE é anônimo como manuscrito; o REX segue a autoria prevista no modelo.
-Credenciais e dados pessoais de inscrição ficam fora deste repositório.
-
-Resumos em português e inglês, texto integral e diagrama foram revisados para explicar o problema e o funcionamento antes dos detalhes técnicos. Os dados, as referências e os critérios da rodada foram preservados.
-
-O PSE apresenta plataformas de mercado e trabalhos científicos em quadros próprios. As ligações ao responsável para pendências prioritárias estão identificadas como evolução proposta; não são função implementada ou avaliada.
+PSE é a modalidade principal; REX é a alternativa, sem submissão simultânea do
+mesmo trabalho. Não houve envio, aceite ou publicação nos anais. Conferências de
+conclusão estão no [README da atividade](publicacao/tarefa09-contecsi/README.md).
+O PSE é anônimo como manuscrito; o REX segue a autoria do modelo. Credenciais e
+dados pessoais de inscrição ficam fora do repositório.
