@@ -4,7 +4,7 @@ Documento de origem: PDF comentado de 25 páginas recebido do orientador. PSE é
 
 | Comentário | Alteração realizada | Local no PSE revisado |
 | --- | --- | --- |
-| C1: demonstrar originalidade com comparação sistemática | Comparação documental por critérios comuns e discussão com FlowMind, AppWorld e τ-bench; contribuição aplicada sustentada por comparação pareada de contexto | Seções 2.2 e 5.3; Quadros 1 e 2; Tabela 2 |
+| C1: demonstrar originalidade com comparação sistemática | Comparação documental por contexto, operações e autorização; papéis das plataformas diferenciados; contribuição sustentada por avaliação conjunta de interpretação, seleção de contexto e controle dos efeitos vinculados, em diálogo com FlowMind, AppWorld e τ-bench | Seções 2.2 e 5.3; Quadros 1 e 2; Tabela 2 |
 | C2: ampliar solicitações e discutir generalização | Corpus de 60 cenários em 3 domínios, 360 chamadas; análise por classe e estabilidade por cenário; alcance sintético explicitado | Seções 3.2, 5.2 e 5.3 |
 | C3: ampliar catálogo de 1 cliente e 1 serviço | 24 clientes e 6 serviços por catálogo, nomes semelhantes e durações de 30 a 240 minutos | Seção 3.2 e suplemento |
 | C4: identificar provedor, modelo, versão e parâmetros | OpenAI Responses API; gpt-6-luna solicitado e registrado; esquema estrito, limite de saída, reasoning, store, parâmetros não enviados e timeout; ausência de snapshot datado fixado | Seção 3.2; Quadro 4; fontes e registros do suplemento |
@@ -39,3 +39,9 @@ As plataformas de mercado e os trabalhos científicos têm quadros próprios. O 
 ## Síntese e apresentação visual
 
 O texto foi condensado no conjunto do artigo. O problema parte da ligação entre pedido, serviço e recebimento. A configuração da IA foi concentrada no Quadro 4; o escopo é o Quadro 5. APIs, webhooks e MCP estão identificados na Figura 2 e no texto como mecanismos das conexões propostas. A Figura 4 mostra operação e valores a receber em telas implementadas com dados sintéticos. A explicação do material de apoio foi reduzida e incorporada ao método. Os resultados e a configuração experimental foram preservados.
+
+## Ajustes da revisão final — 09/11/2026
+
+A contribuição passou a explicitar a avaliação conjunta da interpretação, da seleção de contexto e das regras que controlam os efeitos vinculados. O Quadro 1 usa critérios comuns de contexto, operações e autorização. A pergunta da interface foi alinhada ao comportamento verificado pelos testes automatizados, distinguindo-o da futura avaliação com pessoas. A referência Flutter agora corresponde aos testes de widgets. As datas de consulta correspondem às verificações documentadas; os custos estão arredondados na narrativa e completos nos registros.
+
+Os resumos distinguem proposta de ação de oferta comercial e relacionam os benefícios ao acompanhamento de serviços e cobranças. O resumo do REX concentra a evolução na jornada, mantendo ligações e descoberta por consumidores no desenvolvimento. Permanecem 15 páginas no PSE e 7 no REX nas prévias; não houve nova coleta. Por decisão dos autores, a declaração de IA foi mantida e a aplicação da regra de marcação será esclarecida com o evento.

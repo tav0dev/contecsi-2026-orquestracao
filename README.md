@@ -24,7 +24,7 @@ Pesquisa de Iniciação Científica da Fatec Itapetininga, preparada para a
 
 Entre o pedido e o recebimento, o responsável precisa relacionar cliente, agenda,
 materiais e valores a cobrar. O protótipo recebe uma necessidade, reúne dados e
-apresenta uma proposta da IA para revisão. A autorização atualiza os registros
+apresenta uma proposta de ação da IA para revisão. A autorização atualiza os registros
 relacionados; repetição, cancelamento e conclusão seguem regras verificadas.
 
 A comparação usa 60 cenários sintéticos, 3 catálogos, 24 clientes e 6 serviços por
@@ -41,11 +41,13 @@ ligações ao responsável. Esses recursos e benefícios têm avaliação própr
 
 ## Situação
 
-**Em revisão — atualização de 8 de novembro de 2026.** A redação foi condensada e
-as telas passaram a mostrar também a Carteira. As prévias têm **15 páginas no PSE**
-e **7 no REX**. Os resultados são os da mesma rodada; referências e critérios foram
-preservados. O material de apoio permite refazer a análise dos registros sem novas
-chamadas pagas. Nova inferência exige acesso ao provedor.
+**Em revisão — atualização de 9 de novembro de 2026.** A contribuição e o quadro
+comparativo foram refinados; os benefícios estão ligados ao acompanhamento de
+serviços e recebimentos. A referência Flutter e as datas de consulta foram
+conferidas. As prévias têm **15 páginas no PSE** e **7 no REX**. Resultados e
+critérios experimentais permanecem os da mesma rodada. O material de apoio permite
+refazer a análise dos registros sem novas chamadas pagas; nova inferência exige
+acesso ao provedor.
 
 PSE é a modalidade principal; REX é a alternativa, sem submissão simultânea do
 mesmo trabalho. Não houve envio, aceite ou publicação nos anais. Conferências de

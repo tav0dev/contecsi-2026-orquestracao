@@ -22,10 +22,13 @@
 
 ## Versão atual
 
-As prévias têm **15 páginas no PSE** e **7 no REX**. O texto foi condensado;
-a configuração da IA está em quadro e as telas mostram proposta, agenda e valores
-a receber. APIs, webhooks e MCP aparecem como mecanismos das conexões propostas.
-Os resultados, as referências e os critérios da avaliação foram preservados.
+As prévias têm **15 páginas no PSE** e **7 no REX**. A revisão de 09/11 explicita
+a contribuição, usa critérios comuns na comparação e liga os benefícios a serviços,
+cobranças e pendências. A pergunta da interface corresponde aos testes automatizados.
+A referência Flutter e as datas de consulta foram conferidas. Os resumos distinguem
+proposta de ação de oferta comercial; custos estão arredondados no texto e completos
+nos registros. APIs, webhooks e MCP permanecem nas conexões propostas. Resultados e
+critérios da avaliação foram preservados.
 
 O PSE apresenta problema, fundamentos, método, protótipo e avaliação. O REX é uma
 alternativa sujeita à orientação acadêmica; não se pressupõe submissão simultânea
