@@ -43,12 +43,13 @@ comandos para refazer a análise sem chamadas pagas.
 
 A visão de evolução acompanha a jornada da definição à análise e revisão da oferta
 e da operação, incluindo a futura descoberta e contratação por consumidores.
-Tempo, resultados financeiros e tranquilidade são benefícios pretendidos, sem
-validação com o público nesta etapa.
+Resultados financeiros, tempo disponível, controle e tranquilidade são os benefícios
+centrais pretendidos. Decisões gerenciais e estratégicas são um possível uso do tempo
+recuperado. Esses benefícios deverão ser avaliados com o público.
 
 ## Situação
 
-**Em revisão — redação atualizada em 8 de novembro de 2026.** As prévias têm 16 páginas
+**Em revisão — redação atualizada em 8 de novembro de 2026.** As prévias têm 17 páginas
 no PSE e 8 no REX. PSE é a modalidade principal; o REX é uma alternativa, sem
 presumir submissão simultânea do mesmo trabalho.
 
@@ -58,3 +59,5 @@ O PSE é anônimo como manuscrito; o REX segue a autoria prevista no modelo.
 Credenciais e dados pessoais de inscrição ficam fora deste repositório.
 
 Resumos em português e inglês, texto integral e diagrama foram revisados para explicar o problema e o funcionamento antes dos detalhes técnicos. Os dados, as referências e os critérios da rodada foram preservados.
+
+O PSE apresenta plataformas de mercado e trabalhos científicos em quadros próprios. As ligações ao responsável para pendências prioritárias estão identificadas como evolução proposta; não são função implementada ou avaliada.

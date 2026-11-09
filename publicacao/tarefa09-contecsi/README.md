@@ -41,7 +41,7 @@ unidades distintas e não compõem uma taxa única de qualidade.
 O PSE utiliza Times New Roman 12 e entrelinha 1,5 conforme as
 [Diretrizes para Autores](https://contecsi.tecsi.org/index.php/contecsi/21CONTECSI/about/submissions).
 O REX utiliza Arial 12 e as instruções próprias do modelo. Os limites publicados
-são 10–30 páginas para PSE e 5–8 para REX; as prévias atuais têm 16 e 8 páginas.
+são 10–30 páginas para PSE e 5–8 para REX; as prévias atuais têm 17 e 8 páginas.
 
 Exemplos PSE da 20ª edição consultados para apresentação:
 
@@ -69,3 +69,5 @@ O envio ao congresso ocorre separadamente no
 Nenhuma confirmação de envio, aceite ou publicação é alegada.
 
 A redação dos resumos e dos textos integrais foi revisada para clareza. Os resultados permanecem os da mesma rodada; as 6 diferenças entre esclarecimento e recusa estão explicadas nos manuscritos.
+
+A proposta de valor prioriza resultados financeiros, tempo disponível, controle e tranquilidade. A explicação do método distingue verificação remota de integração e comparação das respostas da IA dentro da mesma avaliação. O PSE tem quadros próprios para plataformas de mercado e trabalhos científicos; os alertas por ligação ao responsável permanecem como evolução proposta.

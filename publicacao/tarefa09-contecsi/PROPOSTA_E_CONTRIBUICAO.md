@@ -8,19 +8,19 @@ O responsável precisa conectar informações e acompanhar a continuidade dos pr
 
 ## Benefícios prioritários
 
-| Papel | Benefício pretendido | O que precisa ser avaliado com o público |
+| Benefício pretendido | Como a proposta busca entregá-lo | O que avaliar com o público |
 | --- | --- | --- |
-| Central: tempo | Reduzir esforço operacional e liberar atenção para decisões gerenciais e estratégicas | Tempo de intervenção, conclusão de tarefas e retrabalho |
-| Central: resultados financeiros | Apoiar a continuidade da oportunidade até contratação, realização, recebimento e recorrência | Oportunidades, conversão, custos e recebimentos |
-| Complementar: tranquilidade | Dar visibilidade e controle sobre compromissos, pendências e decisões | Compreensão das propostas e percepção de controle |
+| Resultados financeiros | Acompanhar oportunidades, contratação, realização, recebimento e recorrência | Conversão de oportunidades, receitas, custos e recebimentos |
+| Tempo disponível | Reduzir conferências repetidas, retrabalho e acompanhamento manual | Tempo de intervenção, conclusão de tarefas e retrabalho |
+| Controle e tranquilidade | Dar visibilidade sobre compromissos, pendências e operações autorizadas | Percepção de controle, tranquilidade e compreensão das propostas |
 
-Esses benefícios orientam o produto e os estudos com o público. A avaliação técnica examina interpretação, regras e registros; ainda não mede tempo poupado, ganhos financeiros ou percepção de controle.
+Esses são os benefícios centrais pretendidos. Decisões gerenciais e estratégicas são um possível uso do tempo recuperado, conforme as prioridades do responsável. Esses benefícios orientam o produto e os estudos com o público. A avaliação técnica examina interpretação, regras e registros; ainda não mede tempo poupado, ganhos financeiros ou percepção de controle.
 
 ## Jornada preservada
 
 Definir a oferta → divulgar e atrair → atender e entender a demanda → negociar e contratar → planejar e preparar → executar e acompanhar → cobrar e receber → pós-venda e relacionamento → analisar e revisar a oferta e a operação.
 
-As etapas se adaptam ao serviço; pagamentos, orçamento, visitas, recorrência e indicação podem alterar sua sequência. A integração busca aproveitar ferramentas existentes e contexto autorizado. Um futuro canal de descoberta por consumidores alimentaria essa jornada. Ligações, voz e novos módulos são meios candidatos, sem serem tratados como o centro da contribuição.
+As etapas se adaptam ao serviço; pagamentos, orçamento, visitas, recorrência e indicação podem alterar sua sequência. A integração busca aproveitar ferramentas existentes e contexto autorizado. Um futuro canal de descoberta por consumidores alimentaria essa jornada. Como evolução, o assistente poderá ligar ao responsável para avisar sobre pendências prioritárias, conforme suas preferências de contato. A intenção é reduzir a consulta repetida aos aplicativos e apoiar controle e tranquilidade. Ligações e novos conectores ainda exigem implementação e avaliação próprias.
 
 ## Contribuição que as evidências sustentam
 
